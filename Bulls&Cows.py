@@ -9,7 +9,6 @@ import os
 from time import time
 from random import sample
 
-
 def generate_random_number() -> str:
 
     while True:
